@@ -61,5 +61,5 @@ const indra = {
 
 
 
-![profile](https://komarev.com/ghpvc/?username=rafirh&color=blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rafirh&color=blue)
+![profile](https://komarev.com/ghpvc/?username=indraxr6&color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=indraxr6&color=blue)
