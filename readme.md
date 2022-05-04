@@ -4,21 +4,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const indra = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "CSS", "HTML"],
-    askMeAbout: ["web dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MySQL"]
-    },
-    funFact: "not funny, didn't laugh"
-};
-```
-
 </br>
   
 <div align="center"> 
