@@ -2,7 +2,7 @@
   <h1> 𝑯𝒆𝒍𝒍𝒐, 𝙸'𝚖 Indra W. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h1>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 </br>
   
