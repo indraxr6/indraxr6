@@ -28,23 +28,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  </br>
-  
- <div align="center"> 
-  <img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" />
-</div>  
-  
-  </br>
- 
-<div align="center"> 
-  <a href="https://instagram.com/ini.bin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:indra.roadota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/indra-wibowo-533134174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-<br><br>
-
-
-
-![profile](https://komarev.com/ghpvc/?username=indraxr6&color=blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=indraxr6&color=blue)
