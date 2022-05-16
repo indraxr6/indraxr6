@@ -1,9 +1,6 @@
 <div align="center">
   <h1> 𝑯𝒆𝒍𝒍𝒐, 𝙸'𝚖 Indra W. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h1>
 </div>
-
-
-
 </br>
   
 <div align="center"> 
